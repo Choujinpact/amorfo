@@ -1,0 +1,4 @@
+node_modules
+dist
+backend/credit_motivation.db
+*.log
